@@ -63,10 +63,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="JATE" />
           </div>
-          <h3>Just Another Text Editor</h3>
+          <h3>Le Bon Mange</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/casignacio/j.a.t.e." className='btn' target='blank'>Github</a>
-            <a href="https://idktexteditor-186062e64738.herokuapp.com/" className='btn btn-primary' target='blank'>Live Demo</a>
+            <a href="https://github.com/LarryByrd89/gusteaus-restaurant" className='btn' target='blank'>Github</a>
+            <a href="https://evening-temple-83472-cd362ca31882.herokuapp.com/" className='btn btn-primary' target='blank'>Live Demo</a>
           </div>
         </article>
 
