@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/idklabs-react-portfolio/static/css/main.9737fff3.css",
-    "main.js": "/idklabs-react-portfolio/static/js/main.b507fc62.js",
+    "main.js": "/idklabs-react-portfolio/static/js/main.6be25ddb.js",
     "static/media/portfolio1.png": "/idklabs-react-portfolio/static/media/portfolio1.baf879b592d353728133.png",
     "static/media/kid-buu.png": "/idklabs-react-portfolio/static/media/kid-buu.5d75de94514a5a075f8d.png",
     "static/media/me-buu.png": "/idklabs-react-portfolio/static/media/me-buu.c6e952070717e63464dd.png",
@@ -12,10 +12,10 @@
     "static/media/portfolio4.png": "/idklabs-react-portfolio/static/media/portfolio4.3f3b6cc0debeee1af3f8.png",
     "index.html": "/idklabs-react-portfolio/index.html",
     "main.9737fff3.css.map": "/idklabs-react-portfolio/static/css/main.9737fff3.css.map",
-    "main.b507fc62.js.map": "/idklabs-react-portfolio/static/js/main.b507fc62.js.map"
+    "main.6be25ddb.js.map": "/idklabs-react-portfolio/static/js/main.6be25ddb.js.map"
   },
   "entrypoints": [
     "static/css/main.9737fff3.css",
-    "static/js/main.b507fc62.js"
+    "static/js/main.6be25ddb.js"
   ]
 }
